@@ -1,5 +1,3 @@
-# usdai
-=======
 # USDAI - Revolutionizing VFX with AI and USD 🚀
 
 Hey there, Tech Enthusiasts! Welcome to USDAI - where we're pushing the boundaries of what's possible in the Visual Effects (VFX) landscape. By merging the intelligence of Artificial Intelligence (AI) with the capabilities of Pixar's Open USD, we're fostering a revolution in content creation. Here's the spot where your groundbreaking ideas take flight.
