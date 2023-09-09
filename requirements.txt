@@ -1,0 +1,8 @@
+chainlit
+langchain
+matplotlib
+transformers
+auto-gptq
+requests
+beautifulsoup4
+urllib3
