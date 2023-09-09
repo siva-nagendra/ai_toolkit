@@ -1,0 +1,7 @@
+numpy
+matplotlib
+langchain
+chainlit
+requests
+beautifulsoup4
+urllib3
