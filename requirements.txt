@@ -1,8 +1,7 @@
-chainlit
-langchain
+numpy
 matplotlib
-transformers
-auto-gptq
+langchain
+chainlit
 requests
 beautifulsoup4
 urllib3

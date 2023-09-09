@@ -1,25 +1,25 @@
-# USDAI - Revolutionizing VFX with AI 🚀
+# USDAI - Revolutionizing VFX with AI and USD 🚀
 
-Welcome to USDAI, where the future of Visual Effects (VFX) meets the intelligence of Artificial Intelligence. A powerhouse tool designed to integrate with Pixar's Open USD, enabling creative minds to build groundbreaking content with unprecedented efficiency.
+Hey there, Tech Enthusiasts! Welcome to USDAI - where we're pushing the boundaries of what's possible in the Visual Effects (VFX) landscape. By merging the intelligence of Artificial Intelligence (AI) with the capabilities of Pixar's Open USD, we're fostering a revolution in content creation. Here's the spot where your groundbreaking ideas take flight.
 
 ## Features 🌟
 
-- **USD Enhancement**: Streamline your VFX pipeline with enhanced USD functionalities.
-- **AI Integration**: Leverage the potential of AI and Large Language Models in the VFX domain.
-- **Community Collaborations**: Collaborate, learn, and grow with the community of artists and tech enthusiasts.
+- **USD Enhancement**: Amplify the capabilities of Pixar's Open USD, crafting a seamless and enriched experience in the VFX pipeline.
+- **AI Integration**: Harness the potential of Large Language Models (LLMs) and AI to unlock new frontiers in the VFX domain.
+- **Community Collaborations**: Join a vibrant community of artists and tech enthusiasts where collaboration fosters innovation and growth.
 
 ## Use Cases 💼
 
-- **Content Creation**: Simplify the process of creating rich content with AI-assisted tools.
-- **Data Analysis in VFX**: Harness the power of data analytics to drive your VFX projects forward.
-- **Pipeline Optimization**: Enhance data flow and pipeline management in large corporations with a keen focus on VFX.
+- **Content Creation**: Revolutionize content creation with AI-assisted tools, ushering in a new era of visual storytelling.
+- **Data Analysis in VFX**: Equip yourself with powerful data analytics tools to steer your VFX projects to success.
+- **Pipeline Optimization**: Optimize and streamline data flow and pipeline management in large corporations, setting new benchmarks in the VFX industry.
 
 ## Getting Started 🛠
 
 ### Installation
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
+1. Clone the repository to your local machine, gearing up to witness magic in the making.
+2. Navigate to the project directory, where innovation meets execution.
 3. Install the necessary packages by running the command:
 
 ```bash
@@ -28,14 +28,22 @@ pip install -r requirements.txt
 
 ### Launching the Tool
 
-To get started with USDAI, run the following command in your project directory:
+Embark on your USDAI journey with our CLI tool that not only allows you to launch the application but also to train existing models with additional vector databases. Here's how you can get started:
 
 ```bash
-chainlit run model.py
+# To load the vector database
+python usdai.py load --db-path <path_to_vector_database>
+
+# To train the model with a specified dataset
+python usdai.py train --dataset-path <path_to_dataset> --db-path <path_to_vector_database>
 ```
+
+### Code Documentation
+
+Check out the `usdai.py` script for detailed documentation and argparse setup to customize your interaction with the USDAI tool.
 
 ## Connect & Contribute 🤝
 
-- **Contribute**: Contribute to the project on [GitHub](https://github.com/siva-nagendra/usdai)
+- **Contribute**: Join hands with us on this revolutionary journey. Your contributions can shape the future of the VFX industry. Dive in on [GitHub](https://github.com/siva-nagendra/usdai).
 
-We are on a journey to redefine the VFX industry, and your collaboration can accelerate this revolution. Let's build the future, together! ✨
+Together, we can build a platform that stands as a testament to innovation and collaboration. Let's build the future, together! ✨

@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 vectorstore/db_faiss/index.faiss
 vectorstore/db_faiss/index.pkl
+.DS_Store
