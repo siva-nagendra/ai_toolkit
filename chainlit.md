@@ -1,6 +1,6 @@
-# Welcome to VFX Wizard! 🌟
+# Welcome to your AI Chatbot! 🌟
 
-Hello, creators and tech enthusiasts! Welcome to **VFX Wizard**, your go-to chatbot specially crafted for those who breathe life into art through technology, focusing mainly on USD (Universal Scene Description) in the VFX realm. 💻🎥
+Hello, creators and tech enthusiasts! Welcome to **VFX Wizard**, your go-to chatbot specially crafted for those who breathe life into art through technology, in the VFX realm. 💻🎥
 
 ## Features 💫
 
@@ -15,6 +15,6 @@ Hello, creators and tech enthusiasts! Welcome to **VFX Wizard**, your go-to chat
 3. **Community & Support**: Join a community of like-minded individuals who share your passion for VFX and technology.
 
 ### Connect with us 💬
-- **GitHub**: [USD AI Repository](https://github.com/siva-nagendra/usdai)
+- **GitHub**: [AI Toolkit](https://github.com/siva-nagendra/ai_toolkit)
 
 We hope to make your journey in the VFX industry more insightful and enjoyable. Happy coding! 💖

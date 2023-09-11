@@ -1,4 +1,4 @@
-# AI Toolkit 🌟 - Revolutionizing VFX Technologies
+# AI Toolkit 🌟
 
 [![Python package](https://img.shields.io/pypi/v/ai_toolkit)](https://pypi.org/project/ai_toolkit/)
 [![Python](https://img.shields.io/pypi/pyversions/ai_toolkit.svg?maxAge=2592000)](https://pypi.python.org/pypi/ai_toolkit/) 
@@ -42,7 +42,3 @@ We warmly welcome community contributions! Feel free to enhance AI Toolkit's cap
 
 This project is licensed under the [MIT License](https://github.com/siva-nagendra/ai_toolkit/blob/main/LICENSE) - see the [LICENSE](https://github.com/siva-nagendra/ai_toolkit/blob/main/LICENSE) file for details.
 
-
----
-
-Made with ❤️ by [Siva](https://github.com/siva-nagendra), a technology enthusiast aiming to revolutionize the VFX and Animation industry, one line of code at a time.
