@@ -1,49 +1,48 @@
-# USDAI - Revolutionizing VFX with AI and USD 🚀
+# AI Toolkit 🌟 - Revolutionizing VFX Technologies
 
-Hey there, Tech Enthusiasts! Welcome to USDAI - where we're pushing the boundaries of what's possible in the Visual Effects (VFX) landscape. By merging the intelligence of Artificial Intelligence (AI) with the capabilities of Pixar's Open USD, we're fostering a revolution in content creation. Here's the spot where your groundbreaking ideas take flight.
+[![Python package](https://img.shields.io/pypi/v/ai_toolkit)](https://pypi.org/project/ai_toolkit/)
+[![Python](https://img.shields.io/pypi/pyversions/ai_toolkit.svg?maxAge=2592000)](https://pypi.python.org/pypi/ai_toolkit/) 
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/ai_toolkit)](https://pypi.org/project/ai_toolkit/)
+[![License: MIT](https://img.shields.io/github/license/siva-nagendra/ai_toolkit)](https://github.com/siva-nagendra/ai_toolkit/blob/main/LICENSE)
 
-## Features 🌟
+> AI Toolkit is open for collaboration! Join us to enhance AI Toolkit by participating in [discussions](https://github.com/siva-nagendra/ai_toolkit/discussions), opening [issues](https://github.com/siva-nagendra/ai_toolkit/issues/new/choose), or submitting [PRs](https://github.com/siva-nagendra/ai_toolkit/pulls).
 
-- **USD Enhancement**: Amplify the capabilities of Pixar's Open USD, crafting a seamless and enriched experience in the VFX pipeline.
-- **AI Integration**: Harness the potential of Large Language Models (LLMs) and AI to unlock new frontiers in the VFX domain.
-- **Community Collaborations**: Join a vibrant community of artists and tech enthusiasts where collaboration fosters innovation and growth.
+## 🚀 Features
 
-## Use Cases 💼
+1. **Load Multiple Models** :gear: Easily load various models from Huggingface and OpenAI, integrating the power of AI seamlessly.
+2. **Train Your Models** :brain: Train your models with diverse file formats seamlessly integrated into the application.
+3. **Chat with LLMs** :speech_balloon: Engage with Large Language Models via the intuitive Chainlit Chatbot UI.
+4. **Web Surfing to Train Capacity** :globe_with_meridians: (Under Development): Extract training data from the web for more nuanced model training.
+5. **AI Agents for Task Automation** :robot: (Under Development): Utilize AI agents to automate specific tasks and workflows.
 
-- **Content Creation**: Revolutionize content creation with AI-assisted tools, ushering in a new era of visual storytelling.
-- **Data Analysis in VFX**: Equip yourself with powerful data analytics tools to steer your VFX projects to success.
-- **Pipeline Optimization**: Optimize and streamline data flow and pipeline management in large corporations, setting new benchmarks in the VFX industry.
+## 🔧 Installation
 
-## Getting Started 🛠
+(Include the steps for installing your tool here. Make sure to specify that Python 3.11 is required.)
 
-### Installation
+## 💻 Usage
 
-1. Clone the repository to your local machine, gearing up to witness magic in the making.
-2. Navigate to the project directory, where innovation meets execution.
-3. Install the necessary packages by running the command:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Launching the Tool
-
-Embark on your USDAI journey with our CLI tool that not only allows you to launch the application but also to train existing models with additional vector databases. Here's how you can get started:
-
-```bash
+```sh
 # To load the vector database
-python usdai.py load --db-path <path_to_vector_database>
+ai_toolkit load --db-path <path_to_vector_database>
 
-# To train the model with a specified dataset
-python usdai.py train --dataset-path <path_to_dataset> --db-path <path_to_vector_database>
+# To train the model with the specified dataset
+ai_toolkit train --dataset-path <path_to_dataset> --db-path <path_to_vector_database>
 ```
 
-### Code Documentation
+## ⚙️ Environment Variables
 
-Check out the `usdai.py` script for detailed documentation and argparse setup to customize your interaction with the USDAI tool.
+1. `DB_FAISS_PATH`: Path to the vector database. 
+2. `DATASET_PATH`: Path to the dataset.
 
-## Connect & Contribute 🤝
+## 🤝 Contributions
 
-- **Contribute**: Join hands with us on this revolutionary journey. Your contributions can shape the future of the VFX industry. Dive in on [GitHub](https://github.com/siva-nagendra/usdai).
+We warmly welcome community contributions! Feel free to enhance AI Toolkit's capabilities through issues and pull requests.
 
-Together, we can build a platform that stands as a testament to innovation and collaboration. Let's build the future, together! ✨
+## 📜 License
+
+This project is licensed under the [MIT License](https://github.com/siva-nagendra/ai_toolkit/LICENSE) - see the [LICENSE](https://github.com/siva-nagendra/ai_toolkit/LICENSE) file for details.
+
+
+---
+
+Made with ❤️ by [Siva](https://github.com/siva-nagendra), a technology enthusiast aiming to revolutionize the VFX and Animation industry, one line of code at a time.

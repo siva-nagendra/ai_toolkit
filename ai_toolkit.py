@@ -30,7 +30,7 @@ def main():
     
     if args.command == 'load':
         if args.db_path:
-            subprocess.run(["chainlit", "run", "model.py"])
+            subprocess.run(["chainlit", "run", "multi_model_chatbot.py"])
         else:
             raise ValueError("DB_FAISS_PATH not set. Please set the DB_FAISS_PATH environment variable or use the --db-path option.")
     
