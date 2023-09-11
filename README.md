@@ -40,7 +40,7 @@ We warmly welcome community contributions! Feel free to enhance AI Toolkit's cap
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/siva-nagendra/ai_toolkit/LICENSE) - see the [LICENSE](https://github.com/siva-nagendra/ai_toolkit/LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/siva-nagendra/ai_toolkit/blob/main/LICENSE) - see the [LICENSE](https://github.com/siva-nagendra/ai_toolkit/blob/main/LICENSE) file for details.
 
 
 ---
