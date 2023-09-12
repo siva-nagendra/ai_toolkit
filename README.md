@@ -1,5 +1,7 @@
 # AI Toolkit 🌟
 
+AI Toolkit is your one-stop solution for integrating, training, and utilizing large language models and AI agents. Tailored to facilitate seamless workflows, it leverages the prowess of artificial intelligence to amplify your productivity and innovation.
+
 [![Python package](https://img.shields.io/pypi/v/ai_toolkit)](https://pypi.org/project/ai_toolkit/)
 [![Python](https://img.shields.io/pypi/pyversions/ai_toolkit.svg?maxAge=2592000)](https://pypi.python.org/pypi/ai_toolkit/) 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/ai_toolkit)](https://pypi.org/project/ai_toolkit/)
@@ -17,7 +19,11 @@
 
 ## 🔧 Installation
 
-(Include the steps for installing your tool here. Make sure to specify that Python 3.11 is required.)
+To get started with AI Toolkit, ensure you have Python 3.11 installed. Follow the steps below to install all the necessary dependencies:
+
+```sh
+pip install -r requirements.txt
+```
 
 ## 💻 Usage
 
@@ -41,4 +47,3 @@ We warmly welcome community contributions! Feel free to enhance AI Toolkit's cap
 ## 📜 License
 
 This project is licensed under the [MIT License](https://github.com/siva-nagendra/ai_toolkit/blob/main/LICENSE) - see the [LICENSE](https://github.com/siva-nagendra/ai_toolkit/blob/main/LICENSE) file for details.
-
