@@ -161,3 +161,7 @@ cython_debug/
 vectorstore/db_faiss/index.faiss
 vectorstore/db_faiss/index.pkl
 .DS_Store
+
+# self
+message_logs/
+.python-version
